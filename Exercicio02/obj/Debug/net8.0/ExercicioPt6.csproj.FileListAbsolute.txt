@@ -1,0 +1,14 @@
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\bin\Debug\net8.0\ExercicioPt6.exe
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\bin\Debug\net8.0\ExercicioPt6.deps.json
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\bin\Debug\net8.0\ExercicioPt6.runtimeconfig.json
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\bin\Debug\net8.0\ExercicioPt6.dll
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\bin\Debug\net8.0\ExercicioPt6.pdb
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.AssemblyInfoInputs.cache
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.AssemblyInfo.cs
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.csproj.CoreCompileInputs.cache
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.dll
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\refint\ExercicioPt6.dll
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.pdb
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ExercicioPt6.genruntimeconfig.cache
+C:\Users\leand\Documents\Programação\C#\ExerciciosPt4\ExercicioPt6\obj\Debug\net8.0\ref\ExercicioPt6.dll
